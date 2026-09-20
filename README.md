@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0669-trim-a-binary-search-tree](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0669-trim-a-binary-search-tree) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
