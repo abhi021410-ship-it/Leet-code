@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0669-trim-a-binary-search-tree](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0669-trim-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0669-trim-a-binary-search-tree](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0669-trim-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -19,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0669-trim-a-binary-search-tree](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0669-trim-a-binary-search-tree) |
 ## String
 |  |
@@ -29,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 ## Math
 |  |
 | ------- |
