@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0125-valid-palindrome) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3884-first-matching-character-from-both-ends](https://github.com/abhi021410-ship-it/Leet-code/tree/master/3884-first-matching-character-from-both-ends) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/abhi021410-ship-it/Leet-code/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Stack
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0143-reorder-list) |
+| [3884-first-matching-character-from-both-ends](https://github.com/abhi021410-ship-it/Leet-code/tree/master/3884-first-matching-character-from-both-ends) |
 ## Linked List
 |  |
 | ------- |
