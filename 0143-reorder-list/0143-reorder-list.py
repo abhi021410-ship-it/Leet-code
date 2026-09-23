@@ -4,8 +4,32 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def reorderList(self, head: ListNode | None) -> None:
+    def reorderList(self, head: Optional[ListNode]) -> None:
         """
         Do not return anything, modify head in-place instead.
         """
+        slow=fast=head
+        while fast and fast.next:
+            slow= slow.next
+            fast=fast.next.next
+        
+        prev=None
+        curr=slow
+        while curr:
+            nxt=curr.next
+            curr.next=prev
+            prev=curr
+            curr=nxt
+
+        first=head
+        secound=prev 
+        while secound.next:
+            temp1=first.next
+            temp2=secound.next
+
+            first.next=secound
+            secound.next=temp1
+            first=temp1
+            secound=temp2
+        
         
