@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0050-powx-n) |
 | [2235-add-two-integers](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2235-add-two-integers) |
 | [3870-count-commas-in-range](https://github.com/abhi021410-ship-it/Leet-code/tree/master/3870-count-commas-in-range) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/abhi021410-ship-it/Leet-code/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0143-reorder-list) |
 ## Array
 |  |
