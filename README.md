@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0125-valid-palindrome) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0144-binary-tree-preorder-traversal) |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1929-concatenation-of-array](https://github.com/abhi021410-ship-it/Leet-code/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
