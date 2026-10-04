@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0125-valid-palindrome) |
+| [1768-merge-strings-alternately](https://github.com/abhi021410-ship-it/Leet-code/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3884-first-matching-character-from-both-ends](https://github.com/abhi021410-ship-it/Leet-code/tree/master/3884-first-matching-character-from-both-ends) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0143-reorder-list) |
+| [1768-merge-strings-alternately](https://github.com/abhi021410-ship-it/Leet-code/tree/master/1768-merge-strings-alternately) |
 | [3884-first-matching-character-from-both-ends](https://github.com/abhi021410-ship-it/Leet-code/tree/master/3884-first-matching-character-from-both-ends) |
 ## Linked List
 |  |
