@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0066-plus-one) |
 | [2235-add-two-integers](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2469-convert-the-temperature) |
 | [3870-count-commas-in-range](https://github.com/abhi021410-ship-it/Leet-code/tree/master/3870-count-commas-in-range) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1929-concatenation-of-array](https://github.com/abhi021410-ship-it/Leet-code/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2011-final-value-of-variable-after-performing-operations) |
