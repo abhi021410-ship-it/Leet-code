@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0125-valid-palindrome) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1768-merge-strings-alternately](https://github.com/abhi021410-ship-it/Leet-code/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Math
 |  |
 | ------- |
@@ -108,8 +110,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0022-generate-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
