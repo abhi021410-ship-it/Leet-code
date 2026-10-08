@@ -1,6 +1,4 @@
 <h2><a href="https://leetcode.com/problems/contains-duplicate">217. Contains Duplicate</a></h2><h3>Easy</h3><hr><p>Given an integer array <code>nums</code>, return <code>true</code> if any value appears <strong>at least twice</strong> in the array, and return <code>false</code> if every element is distinct.</p>
-<img width="326" height="582" alt="image" src="https://github.com/user-attachments/assets/5321b6a3-24ac-438e-b565-e5c06f88901d" />
-<img width="252" height="112" alt="image" src="https://github.com/user-attachments/assets/9af173db-0515-4281-b7d7-06c11e5b9ec5" />
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
