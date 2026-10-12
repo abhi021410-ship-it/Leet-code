@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0283-move-zeroes) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/abhi021410-ship-it/Leet-code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1672-richest-customer-wealth](https://github.com/abhi021410-ship-it/Leet-code/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/abhi021410-ship-it/Leet-code/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -139,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2778-sum-of-squares-of-special-elements) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/abhi021410-ship-it/Leet-code/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
