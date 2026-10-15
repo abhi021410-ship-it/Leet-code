@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [4044-count-good-cyclic-rotations](https://github.com/abhi021410-ship-it/Leet-code/tree/master/4044-count-good-cyclic-rotations) |
 ## Bit Manipulation
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0242-valid-anagram) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sorting
 |  |
 | ------- |
@@ -144,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/abhi021410-ship-it/Leet-code/tree/master/1672-richest-customer-wealth) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
