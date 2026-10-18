@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0066-plus-one) |
 | [2235-add-two-integers](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2469-convert-the-temperature) |
+| [2769-find-the-maximum-achievable-number](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2769-find-the-maximum-achievable-number) |
 | [3870-count-commas-in-range](https://github.com/abhi021410-ship-it/Leet-code/tree/master/3870-count-commas-in-range) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/abhi021410-ship-it/Leet-code/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Two Pointers
