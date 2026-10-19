@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0268-missing-number) |
 | [0669-trim-a-binary-search-tree](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0669-trim-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0268-missing-number) |
 | [2235-add-two-integers](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2769-find-the-maximum-achievable-number) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0283-move-zeroes) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/abhi021410-ship-it/Leet-code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1672-richest-customer-wealth](https://github.com/abhi021410-ship-it/Leet-code/tree/master/1672-richest-customer-wealth) |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0268-missing-number) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/abhi021410-ship-it/Leet-code/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Sliding Window
 |  |
@@ -136,12 +140,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0268-missing-number) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0268-missing-number) |
 ## Enumeration
 |  |
 | ------- |
