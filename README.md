@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhi021410-ship-it/Leet-code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/abhi021410-ship-it/Leet-code/tree/master/3668-restore-finishing-order) |
 | [4044-count-good-cyclic-rotations](https://github.com/abhi021410-ship-it/Leet-code/tree/master/4044-count-good-cyclic-rotations) |
 ## Bit Manipulation
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0268-missing-number) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3668-restore-finishing-order](https://github.com/abhi021410-ship-it/Leet-code/tree/master/3668-restore-finishing-order) |
 ## Sorting
 |  |
 | ------- |
