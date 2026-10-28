@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0268-missing-number) |
 | [0669-trim-a-binary-search-tree](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0669-trim-a-binary-search-tree) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Tree
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0283-move-zeroes) |
 | [1768-merge-strings-alternately](https://github.com/abhi021410-ship-it/Leet-code/tree/master/1768-merge-strings-alternately) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3884-first-matching-character-from-both-ends](https://github.com/abhi021410-ship-it/Leet-code/tree/master/3884-first-matching-character-from-both-ends) |
 ## Linked List
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhi021410-ship-it/Leet-code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/abhi021410-ship-it/Leet-code/tree/master/3668-restore-finishing-order) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0268-missing-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Enumeration
 |  |
 | ------- |
