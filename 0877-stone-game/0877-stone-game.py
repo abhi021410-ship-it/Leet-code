@@ -1,6 +1,6 @@
 class Solution:
     def stoneGame(self, piles: list[int]) -> bool:
-        dp= [[None for i in range(len(piles))]for i in range(len(piles))]
+        '''dp= [[None for i in range(len(piles))]for i in range(len(piles))]
         def solve(st, en):
             if st>en:
                 return 0
@@ -17,4 +17,5 @@ class Solution:
             dp[st][en]= max(c11, c12, c21, c22)
             return max(c11, c12, c21, c22)
         ans= solve(0, len(piles)-1)
-        return True if ans> sum(piles)/2 else False
+        return True if ans> sum(piles)/2 else False'''
+        return True
