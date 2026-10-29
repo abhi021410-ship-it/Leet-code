@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0877-stone-game) |
 | [2235-add-two-integers](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2769-find-the-maximum-achievable-number) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0485-max-consecutive-ones) |
+| [0877-stone-game](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0877-stone-game) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/abhi021410-ship-it/Leet-code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/abhi021410-ship-it/Leet-code/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/abhi021410-ship-it/Leet-code/tree/master/1672-richest-customer-wealth) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0877-stone-game) |
 ## Simulation
 |  |
 | ------- |
@@ -183,4 +186,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
