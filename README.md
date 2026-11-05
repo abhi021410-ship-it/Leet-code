@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0645-set-mismatch) |
 | [0877-stone-game](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0877-stone-game) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/abhi021410-ship-it/Leet-code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/abhi021410-ship-it/Leet-code/tree/master/1470-shuffle-the-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0645-set-mismatch) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/abhi021410-ship-it/Leet-code/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Sliding Window
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0645-set-mismatch) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3668-restore-finishing-order](https://github.com/abhi021410-ship-it/Leet-code/tree/master/3668-restore-finishing-order) |
 ## Sorting
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0645-set-mismatch](https://github.com/abhi021410-ship-it/Leet-code/tree/master/0645-set-mismatch) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abhi021410-ship-it/Leet-code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Enumeration
 |  |
